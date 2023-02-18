@@ -1,0 +1,98 @@
+body {
+    background-image: url("images/fou.jpg");
+    background-repeat: repeat;
+    background-size: 200px;
+}
+
+.tableT {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    table-layout: auto;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+
+.border0 {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 5px;
+}
+
+.border1 {
+    background-color: white;
+    text-align: left;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 15px;
+}
+
+a:link, a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.image1 {
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image2 {
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.anim1 {
+    width: 300px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    animation: move 3s;
+    transition: all .2s ease-in-out;
+}
+
+.anim1:hover {
+    transform: scale(1.3); 
+}
+
+@keyframes move {
+    0% {transform: rotate(360deg);}
+}
+
+.anim2 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    animation: mymove 4s;
+    transition: all .2s ease-in-out;
+    position: relative;
+}
+
+.anim2:hover {
+    transform: scale(1.1); 
+}
+
+@keyframes mymove {
+    0%   {right: 10px; left: 0px;}
+    35%  {right: 0px; left: 40px;}
+    70%  {right: 20px; left: 0px;}
+}
