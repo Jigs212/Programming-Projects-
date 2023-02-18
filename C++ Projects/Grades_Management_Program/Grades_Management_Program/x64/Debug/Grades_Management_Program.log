@@ -1,0 +1,3 @@
+﻿  Grades_Management_Program.cpp
+C:\Users\Jigs\source\repos\Grades_Management_Program\Grades_Management_Program\Grades_Management_Program.cpp(22,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Grades_Management_Program.vcxproj -> C:\Users\Jigs\source\repos\Grades_Management_Program\x64\Debug\Grades_Management_Program.exe
