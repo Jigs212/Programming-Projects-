@@ -1,0 +1,50 @@
+		Inventory of Items
+
+WRITING
+No. 2 lead pencil w/ eraser 20pcs.
+Monggol
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P100                          8                             320.00                        10                            box                           true                          
+
+WRITING
+soft and hard eraser 10 pcs.
+Monggol
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P101                          43                            300.00                        10                            box                           false                         
+
+WRITING
+Black ballpoint pen 20pcs.
+Faber
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P102                          11                            560.00                        15                            box                           true                          
+
+WRITING
+Pencil sharpener w/ container 5 pcs.
+Maped
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P103                          23                            400.00                        10                            pack                          false                         
+
+DRAFTING
+set square 90, 60, and 30 degrees, 10 pcs.
+Maped
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P200                          6                             340.00                        10                            box                           true                          
+
+OFFICE
+Scotch tape 10pcs.
+Maped
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P300                          0                             240.00                        10                            pack                          true                          
+
+WRITING
+Red ballpoint pen 20 pcs.
+Faber
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P400                          28                            408.00                        10                            box                           false                         
+
+WRITING
+Blue ballpoint pen 20 pcs.
+Faber
+Product ID                    Qty                           Price                         ROP                           UOM                           Reorder Status                
+P301                          8                             380.00                        10                            box                           true                          
+

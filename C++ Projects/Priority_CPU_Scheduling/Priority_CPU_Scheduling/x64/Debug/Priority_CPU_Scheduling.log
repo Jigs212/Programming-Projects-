@@ -1,0 +1,3 @@
+﻿  Priority_CPU_Scheduling.cpp
+C:\Users\Jigs\source\repos\Priority_CPU_Scheduling\Priority_CPU_Scheduling\Priority_CPU_Scheduling.cpp(175,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Priority_CPU_Scheduling.vcxproj -> C:\Users\Jigs\source\repos\Priority_CPU_Scheduling\x64\Debug\Priority_CPU_Scheduling.exe
